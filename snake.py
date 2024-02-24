@@ -1,6 +1,6 @@
 import pygame, sys, time, random
 
-speed = 20
+speed = 17.5
 
 # window size
 frame_size_x = 1380
